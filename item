@@ -1,12 +1,12 @@
 [{
-name: "chris_lee",
-thumb: "https://github.com/exar-inc/exar/blob/master/chris_lee.jpg",
+"name": "chris_lee",
+"thumb": "https://github.com/exar-inc/exar/blob/master/chris_lee.jpg",
 },
 {
-name: "dose_juice",
-thumb: "https://github.com/exar-inc/exar/blob/master/dose_juice.jpg",
+"name": "dose_juice",
+"thumb": "https://github.com/exar-inc/exar/blob/master/dose_juice.jpg",
 },
 {
-name: "etienne_girardet",
-thumb: "https://github.com/exar-inc/exar/blob/master/etienne_girardet.jpg",
+"name": "etienne_girardet",
+"thumb": "https://github.com/exar-inc/exar/blob/master/etienne_girardet.jpg",
 }]
